@@ -1,4 +1,10 @@
 {
-  "1": "theresnostickhere",
-  "2": "dixiehorn"
+  "7": {
+    "file": "wiisports",
+    "persistent": true
+  },
+  "8": {
+    "file": "dixiehorn",
+    "persistent": false
+  }
 }
